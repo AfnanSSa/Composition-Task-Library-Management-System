@@ -13,6 +13,6 @@ public class librarySystem {
     List<Publisher> publishers;
     Address address;
     ContactInfo contact;
-    List<Transactions> transactions;
+    List<Transaction> transactions;
 
 }
